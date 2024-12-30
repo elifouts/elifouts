@@ -1,7 +1,7 @@
 # 👋 Hi 
 I'm Eli `elifouts`
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=verticle&theme=gruvbox)
+
 ![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=gruvbox)
 
 ---
@@ -55,6 +55,6 @@ I'm a **Computer Science student**. You can find me here, skiing down slopes, hi
 ---
 
 ## Word of Advice
-> "If you feel like you have imposter syndrome. you are doing something right."
+![Quote](https://quotes-github-readme.vercel.app/api?type=verticle&theme=gruvbox)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elifouts&color=blue)
