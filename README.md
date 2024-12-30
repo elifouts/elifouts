@@ -57,4 +57,4 @@ I'm a **Computer Science student**. You can find me here, skiing down slopes, hi
 ## Word of Advice
 > "If you feel like you have imposter syndrome. you are doing something right."
 
-![Profile Views](https://komarev.com/ghpvc/?username=elifouts&color=lightblue)
+![Profile Views](https://komarev.com/ghpvc/?username=elifouts&color=blue)
