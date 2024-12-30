@@ -1,6 +1,8 @@
 # 👋 Hi 
 I'm Eli `elifouts`
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## About Me
 I'm a **Computer Science student**. You can find me here, skiing down slopes, hiking rugged trails, or camping under the stars.
 
@@ -12,6 +14,15 @@ I'm a **Computer Science student**. You can find me here, skiing down slopes, hi
 
 ![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=elifouts&theme=radical)
+![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=elifouts&color=blueviolet)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elifouts&theme=radical)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elifouts&repo=repo-name&theme=radical)](https://github.com/elifouts/repo-name)
+![GitHub Snake](https://github.com/elifouts/elifouts/blob/output/github-contribution-grid-snake.svg)
+[![Eli's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=elifouts&theme=radical)](https://wakatime.com/@elifouts)
+[![Metrics](https://metrics.lecoq.io/elifouts?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0)](https://github.com/elifouts)
+
 ---
 ## 🔧 Tech Stack
 
@@ -20,6 +31,7 @@ I'm a **Computer Science student**. You can find me here, skiing down slopes, hi
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 - ![VBScript](https://img.shields.io/badge/-VBScript-00BCD4?logo=visualstudio&logoColor=white)
+
 
 ### **Tools & Frameworks**
 - ![FEMAP](https://img.shields.io/badge/-FEMAP-004B8D?logo=siemens&logoColor=white)
@@ -42,7 +54,7 @@ I'm a **Computer Science student**. You can find me here, skiing down slopes, hi
 ---
 
 ## Connect with Me
-
+- [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?logo=buymeacoffee&style=flat)](https://www.buymeacoffee.com/elifouts)
 - [LinkedIn](https://www.linkedin.com/in/elifouts/)
 - [Email](mailto:eligfouts@gmail.com)
 
