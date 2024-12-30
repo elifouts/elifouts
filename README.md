@@ -2,14 +2,17 @@
 I'm Eli `elifouts`
 
 ## About Me
-I'm a **Computer Science student** you can find me here, skiing down slopes, hiking rugged trails, or camping under the stars.
+I'm a **Computer Science student**. You can find me here, skiing down slopes, hiking rugged trails, or camping under the stars.
 
 - From: Cincinnati, Ohio
 - Current Role: Co-Op Engineer at Saratech
 - Goals: To Code IG
-
 ---
+## GitHub Stats
 
+![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=compact&theme=radical)
+---
 ## 🔧 Tech Stack
 
 ### **Languages**
@@ -34,12 +37,7 @@ I'm a **Computer Science student** you can find me here, skiing down slopes, hik
 
 ###Nothing yet!
 
----
 
-## GitHub Stats
-
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=compact&theme=radical)
 
 ---
 
