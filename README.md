@@ -1,7 +1,10 @@
 # 👋 Hi 
 I'm Eli `elifouts`
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=verticle&theme=gruvbox)
+![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=gruvbox)
+
+---
 
 ## About Me
 I'm a **Computer Science student**. You can find me here, skiing down slopes, hiking rugged trails, or camping under the stars.
@@ -11,15 +14,9 @@ I'm a **Computer Science student**. You can find me here, skiing down slopes, hi
 - Goals: To Code IG
 ---
 ## GitHub Stats
-
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=compact&theme=gruvbox)
+![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://streak-stats.demolab.com?user=elifouts&theme=gruvbox)
-![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=gruvbox)
-![Profile Views](https://komarev.com/ghpvc/?username=elifouts&color=transparent)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elifouts&theme=gruvbox)
-
-
 ---
 ## 🔧 Tech Stack
 
@@ -28,7 +25,7 @@ I'm a **Computer Science student**. You can find me here, skiing down slopes, hi
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 - ![VBScript](https://img.shields.io/badge/-VBScript-00BCD4?logo=visualstudio&logoColor=white)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=compact&theme=gruvbox)
 
 ### **Tools & Frameworks**
 - ![FEMAP](https://img.shields.io/badge/-FEMAP-004B8D?logo=siemens&logoColor=white)
@@ -60,3 +57,4 @@ I'm a **Computer Science student**. You can find me here, skiing down slopes, hi
 ## Word of Advice
 > "If you feel like you have imposter syndrome. you are doing something right."
 
+![Profile Views](https://komarev.com/ghpvc/?username=elifouts&color=lightblue)
