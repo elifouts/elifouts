@@ -1,11 +1,12 @@
-# 👋 Hi there, I'm Eli `elifouts`
+# 👋 Hi 
+I'm Eli `elifouts`
 
-## 🚀 About Me
-I'm a passionate **Computer Science student** at the University of Cincinnati, currently on my second Co-Op journey. When I'm not immersed in code, you can find me skiing down slopes, hiking rugged trails, or camping under the stars. I've been skiing since I could walk, and I'm always looking for the next adventure! 🏔️🎿
+## About Me
+I'm a **Computer Science student** you can find me here, skiing down slopes, hiking rugged trails, or camping under the stars.
 
-- 🌍 From: Cincinnati, Ohio
-- 💻 Current Role: Co-Op at Saratech
-- 🎯 Goals: Improve technical problem-solving and learn new things along the way.
+- From: Cincinnati, Ohio
+- Current Role: Co-Op Engineer at Saratech
+- Goals: To Code IG
 
 ---
 
@@ -29,43 +30,26 @@ I'm a passionate **Computer Science student** at the University of Cincinnati, c
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🔗 [Teamcenter Environment Configuration App](https://github.com/elifouts/teamcenter-env-config)
-**Tech:** Python, Tkinter, CustomTkinter  
-A robust GUI application for setting up Teamcenter environments. Features a multi-frame setup process and widget alignment optimization.
-
-### 🔗 FEMAP API Scripts
-**Tech:** VBScript, FEMAP API  
-Custom scripts for advanced Finite Element Analysis workflows, including group management and iterative gap force plotting.
-
-### 🔗 Solid Edge to CATIA Conversion
-**Tech:** Python, CAD Software Integration  
-Automating the conversion of Solid Edge models to CATIA-compatible formats for seamless cross-platform compatibility.
+###Nothing yet!
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=compact&theme=radical)
 
 ---
 
-## 🎉 Fun Facts
-- **Skiing enthusiast:** I've been skiing since I could walk!
-- **Tinkerer:** Always exploring the latest in tech, whether it's configuring Teamcenter or trying out new Linux window managers.
-- **Lover of the outdoors:** Whether it's hiking, camping, or just enjoying a good campfire, nature is my escape.
-
----
-
-## 📫 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/elifouts/)
-- [Email](mailto:eli.fouts@example.com)
+- [Email](mailto:eligfouts@gmail.com)
 
 ---
 
-## 🏆 My Motto
-> "Never stop learning and always aim for the summit."
+## Word of Advice
+> "If you feel like you have imposter syndrome. you are doing something right."
 
