@@ -39,6 +39,6 @@
 ### Nothing yet!
 
 # Words of advice
-<img src="https://quotes-github-readme.vercel.app/api?type=verticle&theme=calm" width="300" />
+![something](https://quotes-github-readme.vercel.app/api?type=verticle&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elifouts&color=blue)
