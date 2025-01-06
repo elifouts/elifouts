@@ -8,7 +8,9 @@
 
 ## Stats
 
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=calm) ![GitHub Streak](https://streak-stats.demolab.com?user=elifouts&theme=calm)
+![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=calm) 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=elifouts&theme=calm)
 
 ## Languages and Experience
 
