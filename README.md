@@ -13,7 +13,8 @@
 
 ![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=calm) ![GitHub Streak](https://streak-stats.demolab.com?user=elifouts&theme=calm)
 
-## Coding Languages
+## Languages and Experience
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=compact&theme=calm)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
