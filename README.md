@@ -35,9 +35,5 @@
 # Contributions
 ![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=github-dark)
 
-## Featured Projects
-
-### Nothing yet!
-
 # Words of advice
 ![something](https://quotes-github-readme.vercel.app/api?type=verticle&theme=dark)
