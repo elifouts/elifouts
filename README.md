@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hurmit+Nerd+Font&size=25&duration=2000&pause=4000&color=BFBFBF&vCenter=true&width=435&lines=%3C+Eli+%3E+Hello+%3C+%2F+Fouts+%3E)](https://git.io/typing-svg)
 
-
-
-
 ### Im just a guy who likes to code.
 
 - From: Cincinnati, Ohio
