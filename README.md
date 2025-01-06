@@ -41,5 +41,3 @@
 
 # Words of advice
 ![something](https://quotes-github-readme.vercel.app/api?type=verticle&theme=dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=elifouts&color=blue)
