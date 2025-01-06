@@ -20,14 +20,18 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![VBScript](https://img.shields.io/badge/-VBScript-00BCD4?logo=visualstudio&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+
 ![Teamcenter](https://img.shields.io/badge/-Teamcenter-005073?logo=siemens&logoColor=white)
+
 ![Hyprland](https://img.shields.io/badge/-Hyprland-009688?logo=wayland&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white)
+
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
 # Contributions
