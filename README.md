@@ -8,7 +8,7 @@
 
 ## Stats
 
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=calm) 
+![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=github_dark_dimmed) 
 
 
 ## Repos
@@ -24,7 +24,7 @@ $${\color{#4c9bf5}all \space the \space essential \space features \space you \sp
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DerekCorniello&repo=Devbits&theme=chartreuse-dark)
 
 ## Languages and Experience
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=pie&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=donut&theme=github_dark_dimmed)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -47,4 +47,4 @@ $${\color{#4c9bf5}all \space the \space essential \space features \space you \sp
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
 # Contributions
-![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=github-compact)
+![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=github-dark-dimmed)
