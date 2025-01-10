@@ -11,7 +11,7 @@
 ![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=github_dark_dimmed) 
 
 
-## Repos
+## My Repos
 
 - $${\color{#4c9bf5}This \space repository \space contains \space my \space dotfiles \space for \space Arch \space Linux \space with \space Hyprland, \space tailored \space for \space a \space clean, \space minimalistic \space setup \space that \space includes \space }$$
 $${\color{#4c9bf5}all \space the \space essential \space features \space you \space need \space and \space want.}$$
