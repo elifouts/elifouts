@@ -6,7 +6,7 @@
 - On the clock: Co-Op Engineer at Saratech
 - Off the Clock: Coding, Skiing, Hiking
 
-## Stats
+## Stats 
 
 ![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=github_dark_dimmed) 
 
