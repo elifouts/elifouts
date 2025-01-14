@@ -13,13 +13,7 @@
 
 ## My Repos
 
-- $${\color{#4c9bf5}This \space repository \space contains \space my \space dotfiles \space for \space Arch \space Linux \space with \space Hyprland, \space tailored \space for \space a \space clean, \space minimalistic \space setup \space that \space includes \space }$$
-$${\color{#4c9bf5}all \space the \space essential \space features \space you \space need \space and \space want.}$$
-
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elifouts&repo=Dotfiles&theme=github_dark_dimmed)
-
-- $${\color{#7fff00}Devbits \space is \space an \space app \space that \space is \space meant \space to \space connect \space developers \space and \space coders \space all \space around \space the \space world \space in \space order \space to \space share \space projects \space and \space skills.}$$
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DerekCorniello&repo=Devbits&theme=chartreuse-dark)
 
