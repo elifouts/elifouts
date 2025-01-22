@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hurmit+Nerd+Font&size=25&duration=2000&pause=4000&color=BFBFBF&vCenter=true&width=435&lines=%3C+Eli+%3E+Hello+%3C+%2F+Fouts+%3E)](https://git.io/typing-svg)
+
+<img src="https://github.com/user-attachments/assets/a3344158-0e83-4909-b1d1-10035412f58d" width = "50%">
+
 
 ### Im just a guy who likes to code
 
@@ -6,18 +8,9 @@
 - On the Clock: Applications Engineer at Saratech
 - Off the Clock: Coding, Skiing, Hiking
 
-## Stats 
 
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=github_dark_dimmed) 
+<img src="https://github.com/user-attachments/assets/cc998c13-1aa7-4bb9-bf3e-ec47c5455696" width = "50%">
 
-
-## My Repos
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elifouts&repo=Dotfiles&theme=github_dark_dimmed)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DerekCorniello&repo=Devbits&theme=chartreuse-dark)
-
-## Languages and Experience
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=donut&theme=github_dark_dimmed)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -40,5 +33,27 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
-# Contributions
+<img src="https://github.com/user-attachments/assets/b2833c51-1561-43d3-818c-d2f4d72e6699" width = "50%">
+
+- My arch Linux Files from using hyprland. These are constantly updated and maintained, creating a sanctuary of knowledge.
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elifouts&repo=Dotfiles&theme=github_dark_dimmed)
+
+- Devbits Is a Special Project that is targeted to connected developers and poeple in tech.
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DerekCorniello&repo=Devbits&theme=chartreuse-dark)
+
+
+
+
+
+
+
+
+<img src="https://github.com/user-attachments/assets/b3328a20-8150-4097-bbfb-1bd6265e76b8" width = "50%">
+
 ![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=github-dark-dimmed)
+
+![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=github_dark_dimmed) 
+
+
