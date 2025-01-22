@@ -1,6 +1,4 @@
-
-<img src="https://github.com/user-attachments/assets/a3344158-0e83-4909-b1d1-10035412f58d" width = "50%">
-
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/elifouts.gif" width = "50%"><img src="https://github.com/user-attachments/assets/482f278f-a648-4df1-964b-40642f1a8cf4" width = "100%">
 
 ### Im just a guy who likes to code
 
@@ -8,10 +6,9 @@
 - On the Clock: Applications Engineer at Saratech
 - Off the Clock: Coding, Skiing, Hiking
 
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/My%20Skills.gif" width = "50%"><img src="https://github.com/user-attachments/assets/482f278f-a648-4df1-964b-40642f1a8cf4" width = "100%">
 
-<img src="https://github.com/user-attachments/assets/cc998c13-1aa7-4bb9-bf3e-ec47c5455696" width = "50%">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=donut&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=donut&theme=nord)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -27,33 +24,23 @@
 
 ![Teamcenter](https://img.shields.io/badge/-Teamcenter-005073?logo=siemens&logoColor=white)
 
-
 ![Hyprland](https://img.shields.io/badge/-Hyprland-009688?logo=wayland&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
-<img src="https://github.com/user-attachments/assets/b2833c51-1561-43d3-818c-d2f4d72e6699" width = "50%">
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/MyRepos.gif" width = "50%"><img src="https://github.com/user-attachments/assets/482f278f-a648-4df1-964b-40642f1a8cf4" width = "100%">
 
 - My arch Linux Files from using hyprland. These are constantly updated and maintained, creating a sanctuary of knowledge.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elifouts&repo=Dotfiles&theme=github_dark_dimmed)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elifouts&repo=Dotfiles&theme=nord)
 
 - Devbits Is a Special Project that is targeted to connected developers and poeple in tech.
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DerekCorniello&repo=Devbits&theme=chartreuse-dark)
 
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/Contributions.gif" width = "50%"><img src="https://github.com/user-attachments/assets/482f278f-a648-4df1-964b-40642f1a8cf4" width = "100%">
 
+![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=nord)
 
-
-
-
-
-
-<img src="https://github.com/user-attachments/assets/b3328a20-8150-4097-bbfb-1bd6265e76b8" width = "50%">
-
-![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=github-dark-dimmed)
-
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=github_dark_dimmed) 
-
-
+![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=nord) 
