@@ -1,6 +1,4 @@
-
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/elifouts.gif" width = "50%">
-
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/elifouts.gif" width = "50%"><img src="https://github.com/user-attachments/assets/482f278f-a648-4df1-964b-40642f1a8cf4" width = "100%">
 
 ### Im just a guy who likes to code
 
@@ -8,8 +6,7 @@
 - On the Clock: Applications Engineer at Saratech
 - Off the Clock: Coding, Skiing, Hiking
 
-
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/My%20Skills.gif" width = "50%">
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/My%20Skills.gif" width = "50%"><img src="https://github.com/user-attachments/assets/482f278f-a648-4df1-964b-40642f1a8cf4" width = "100%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=donut&theme=nord)
 
@@ -27,13 +24,12 @@
 
 ![Teamcenter](https://img.shields.io/badge/-Teamcenter-005073?logo=siemens&logoColor=white)
 
-
 ![Hyprland](https://img.shields.io/badge/-Hyprland-009688?logo=wayland&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/MyRepos.gif" width = "50%">
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/MyRepos.gif" width = "50%"><img src="https://github.com/user-attachments/assets/482f278f-a648-4df1-964b-40642f1a8cf4" width = "100%">
 
 - My arch Linux Files from using hyprland. These are constantly updated and maintained, creating a sanctuary of knowledge.
 
@@ -43,17 +39,8 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DerekCorniello&repo=Devbits&theme=chartreuse-dark)
 
-
-
-
-
-
-
-
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/Contributions.gif" width = "50%">
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/Contributions.gif" width = "50%"><img src="https://github.com/user-attachments/assets/482f278f-a648-4df1-964b-40642f1a8cf4" width = "100%">
 
 ![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=nord)
 
 ![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=nord) 
-
-
