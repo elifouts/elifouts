@@ -41,5 +41,9 @@
 
 <img src="https://github.com/elifouts/elifouts/blob/main/Extras/ContactMe.gif" width="50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
 
-![card](https://github.com/user-attachments/assets/92706281-0a05-45a1-90b0-e5b5629026c5)
+<div align=center>
+  
+  ![card](https://github.com/user-attachments/assets/92706281-0a05-45a1-90b0-e5b5629026c5)
+  
+</div>
 
