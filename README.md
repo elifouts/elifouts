@@ -1,4 +1,4 @@
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/elifouts.gif" width = "50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.svg" width = "100%">
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/elifouts.gif" width = "50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
 
 ### Im just a guy who likes to code
 
@@ -6,7 +6,7 @@
 - On the Clock: Applications Engineer at Saratech
 - Off the Clock: Coding, Skiing, Hiking
 
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/My%20Skills.gif" width = "50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.svg" width = "100%">
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/My%20Skills.gif" width = "50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=donut&theme=nord)
 
@@ -29,7 +29,7 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/MyRepos.gif" width = "50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.svg" width = "100%">
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/MyRepos.gif" width = "50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
 
 - My arch Linux Files from using hyprland. These are constantly updated and maintained, creating a sanctuary of knowledge.
 
@@ -39,10 +39,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DerekCorniello&repo=Devbits&theme=chartreuse-dark)
 
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/Contributions.gif" width = "50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.svg" width = "100%">
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/ContactMe.gif" width="50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
 
-![Eli's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elifouts&theme=nord)
+![card](https://github.com/user-attachments/assets/92706281-0a05-45a1-90b0-e5b5629026c5)
 
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=nord) 
-
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/ContactMe.gif" width="50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.svg" width = "100%">
