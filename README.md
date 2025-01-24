@@ -31,11 +31,11 @@
 
 <img src="https://github.com/elifouts/elifouts/blob/main/Extras/MyRepos.gif" width = "50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
 
-- My arch Linux Files from using hyprland. These are constantly updated and maintained, creating a sanctuary of knowledge.
+- My arch Linux Files from using hyprland. These are constantly updated and maintained, creating a sanctuary of knowledge withvan easy way to install.
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elifouts&repo=Dotfiles&theme=nord)
 
-- Devbits Is a Special Project that is targeted to connected developers and poeple in tech.
+- Devbits Is a open source application me and a couple friends are creating that is targeted to connect developers and poeple in tech.
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DerekCorniello&repo=Devbits&theme=chartreuse-dark)
 
