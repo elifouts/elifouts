@@ -1,4 +1,4 @@
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/elifouts.gif" width = "50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/elifouts.gif" width = "100%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
 
 ### Im just a guy who likes to code
 
