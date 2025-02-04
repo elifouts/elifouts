@@ -37,6 +37,10 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elifouts&repo=Dotfiles&theme=nord)
 
+- A fast easily configurable and modular fetch for your terminal. Works on most OS
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elifouts&repo=MyFetch&theme=nord)
+
 - Devbits Is a open source application me and a couple friends are creating that is targeted to connect developers and people in tech.
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DerekCorniello&repo=Devbits&theme=chartreuse-dark)
