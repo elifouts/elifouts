@@ -1,4 +1,4 @@
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/elifouts.gif" width = "100%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
+<img src="https://github.com/elifouts/elifouts/blob/main/Extras/elifouts.gif" width = "100%">
 
 ### Im just a guy who likes to code
 
@@ -6,7 +6,9 @@
 - On the Clock: Applications Engineer at Saratech
 - Off the Clock: Coding, Skiing, Hiking
 
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/My%20Skills.gif" width = "50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
+![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=nord)
+
+![Copy of Copy of Copy of Add a heading(11)](https://github.com/user-attachments/assets/840099dc-48f6-443e-83bc-88ddc073e08a)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=donut&theme=nord)
 
@@ -29,7 +31,7 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/MyRepos.gif" width = "50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
+![Copy of Copy of Copy of Add a heading(9)](https://github.com/user-attachments/assets/be293f6b-85fe-49df-807e-0d3829184171)
 
 - My arch Linux Files from using hyprland. These are constantly updated and maintained, creating a sanctuary of knowledge withvan easy way to install.
 
@@ -39,7 +41,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DerekCorniello&repo=Devbits&theme=chartreuse-dark)
 
-<img src="https://github.com/elifouts/elifouts/blob/main/Extras/ContactMe.gif" width="50%"><img src="https://github.com/elifouts/elifouts/blob/main/Extras/Line.png" width = "100%">
+![Copy of Copy of Copy of Add a heading(10)](https://github.com/user-attachments/assets/3c95c2b1-d03f-42f5-99f4-c4387187cf0d)
 
 <div align=center>
   
