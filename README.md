@@ -13,10 +13,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=donut&theme=nord)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![VBScript](https://img.shields.io/badge/-VBScript-00BCD4?logo=visualstudio&logoColor=white)
+[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
+
+[![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?logo=visualbasic&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
@@ -26,7 +32,7 @@
 
 ![Teamcenter](https://img.shields.io/badge/-Teamcenter-005073?logo=siemens&logoColor=white)
 
-![Hyprland](https://img.shields.io/badge/-Hyprland-009688?logo=wayland&logoColor=white)
+![Hyprland](https://img.shields.io/badge/-Hyprland-009688?logo=hyprland&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
