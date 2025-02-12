@@ -2,7 +2,7 @@
 
 ### Im just a guy who likes to code
 
-- From: Cincinnati, Ohio
+- From: Cincinnati, Ohio 
 - On the Clock: Applications Engineer at Saratech
 - Off the Clock: Coding, Skiing, Hiking
 
