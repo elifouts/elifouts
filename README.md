@@ -4,8 +4,8 @@
 
 - From: Cincinnati, Ohio 
 - On the Clock: Applications Engineer at Saratech
-- Off the Clock: Coding, Skiing, Hiking
-
+- Off the Clock: Coding, Skiing, Backpacking, Photography, Knife Making, Balisong Flipping, Pianist, Guitarist, Saxophonist, PC building, Gaming, Urban Exploring
+- 
 ![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=nord)
 
 ![Copy of Copy of Copy of Add a heading(11)](https://github.com/user-attachments/assets/840099dc-48f6-443e-83bc-88ddc073e08a)
