@@ -56,7 +56,7 @@
 
 <div align=center>
   
-  "![card](https://github.com/user-attachments/assets/92706281-0a05-45a1-90b0-e5b5629026c5)"
+  "![card](https://github.com/user-attachments/assets/92706281-0a05-45a1-90b0-e5b5629026c"
   
 </div>
 
