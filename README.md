@@ -58,4 +58,4 @@
   
 </div>
 
-![Snake animation](https://github.com/elifouts/elifouts/blob/main/Extras/github-user-contribution.svg))
+![Snake animation](https://github.com/elifouts/elifouts/blob/main/Extras/github-user-contribution.svg)
