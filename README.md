@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/elifouts/elifouts/blob/main/Extras/github-user-contribution.svg)
+
 <img src="https://github.com/elifouts/elifouts/blob/main/Extras/elifouts.gif" width = "100%">
 
 ### Im just a guy who likes to code
@@ -57,5 +59,3 @@
   ![card](https://github.com/elifouts/elifouts/blob/main/Extras/card.png)
   
 </div>
-
-![Snake animation](https://github.com/elifouts/elifouts/blob/main/Extras/github-user-contribution.svg)
