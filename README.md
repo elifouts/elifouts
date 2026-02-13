@@ -6,11 +6,9 @@
 - On the Clock: Applications Engineer at Saratech
 - Off the Clock: Coding, Skiing, Backpacking, Photography, Knife Making, Balisong Flipping, Pianist, Guitarist, Saxophonist, PC building, Gaming, Urban Exploring
 
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifouts&show_icons=true&theme=nord)
-
 ![Copy of Copy of Copy of Add a heading(11)](https://github.com/user-attachments/assets/840099dc-48f6-443e-83bc-88ddc073e08a)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifouts&layout=donut&theme=nord)
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=elifouts&layout=compact&theme=nord" />
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
@@ -42,21 +40,22 @@
 
 - My arch Linux Files from using hyprland. These are constantly updated and maintained, creating a sanctuary of knowledge withvan easy way to install.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elifouts&repo=Dotfiles&theme=nord)
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=elifouts&repo=dotfiles&theme=nord" />
 
 - A fast easily configurable and modular fetch for your terminal. Works on most OS
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elifouts&repo=MyFetch&theme=nord)
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=elifouts&repo=myfetch&theme=nord" />
 
 - Devbits Is a open source application me and a couple friends are creating that is targeted to connect developers and people in tech.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DerekCorniello&repo=Devbits&theme=chartreuse-dark)
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=elifouts&repo=devbits&theme=chartreuse-dark" />
 
 ![Copy of Copy of Copy of Add a heading(10)](https://github.com/user-attachments/assets/3c95c2b1-d03f-42f5-99f4-c4387187cf0d)
 
 <div align=center>
   
-  "![card](https://github.com/user-attachments/assets/92706281-0a05-45a1-90b0-e5b5629026c"
+  ![card](https://github.com/elifouts/elifouts/blob/main/Extras/card.png)
   
 </div>
 
+![Snake animation](https://github.com/nathancirillo/nathancirillo/blob/output/github-contribution-grid-snake.svg)
