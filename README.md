@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/elifouts/elifouts/blob/main/Extras/github-user-contribution.svg)
+
 
 <img src="https://github.com/elifouts/elifouts/blob/main/Extras/elifouts.gif" width = "100%">
 
@@ -36,7 +36,7 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
-
+![Snake animation](https://github.com/elifouts/elifouts/blob/main/Extras/github-user-contribution.svg)
 
 ![Copy of Copy of Copy of Add a heading(9)](https://github.com/user-attachments/assets/be293f6b-85fe-49df-807e-0d3829184171)
 
