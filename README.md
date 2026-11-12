@@ -36,8 +36,6 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
-![Snake animation](https://github.com/elifouts/elifouts/blob/main/Extras/github-user-contribution.svg)
-
 ![Copy of Copy of Copy of Add a heading(9)](https://github.com/user-attachments/assets/be293f6b-85fe-49df-807e-0d3829184171)
 
 - My arch Linux Files from using hyprland. These are constantly updated and maintained, creating a sanctuary of knowledge withvan easy way to install.
